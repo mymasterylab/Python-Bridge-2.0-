@@ -1,0 +1,1 @@
+Hero:Level 1:100 HP
